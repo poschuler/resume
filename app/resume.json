@@ -1,0 +1,280 @@
+{
+  "basics": {
+    "name": "Paul Osorio Schuler",
+    "label": "Software Engineer | MBA",
+    "image": "https://avatars.githubusercontent.com/u/1238212?v=4",
+    "email": "poschuler@gmail.com",
+    "url": "https://poschuler.com",
+    "summary": "10+ years of experience in the Software Industry, working as Tech-Leader, Team-Leader, Software Architect and Web/Desktop/Back-End Developer, working most of the time in Banking Solutions for the main banks in Peru.",
+    "location": {
+      "address": "Chosica",
+      "postalCode": "15472",
+      "city": "Lima",
+      "countryCode": "PE",
+      "region": "Peru",
+      "url": "https://maps.app.goo.gl/rDwEKUjsx1XpjiGo7"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "poschuler",
+        "url": "https://github.com/poschuler",
+        "key": "g"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "poschuler",
+        "url": "https://www.linkedin.com/in/poschuler/",
+        "key": "l"
+      },
+      {
+        "network": "X",
+        "username": "poschuler",
+        "url": "https://twitter.com/poschuler",
+        "key": "x"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Scotiabank Peru",
+      "position": "Team Leader/Tech Leader",
+      "location": "Remote",
+      "startDate": "2021",
+      "endDate": "current work",
+      "summary": "In change of +10 people of the RPA development Team & Chatbot team. Solutions Architect. In charge of the Robotics area's Technology roadmap. Budget management. Tecnologies: Power Platform, Pega Robotics, MS SQL Server, .NET 4.0, Microsoft LUIS."
+    },
+    {
+      "name": "Banco de Crédito BCP",
+      "position": "Smart Automation Tech Leader → Tribe Technical Leader",
+      "location": "Daily commute → Remote",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "In charge of the CoE Smart Automation's Technology roadmap. In charge of the fulfillment of the bank security and technology standards. OKR & KPI definition. In charge of 5 development squad. RPA Solutions architec. RPA Project manager, budget ~2M USD. Generating ~8M USD (savings, cost avoidance, revenue). Technologies: Automation Anywhere, BPMS, Low Code, BRMS, API, Azure bot services."
+    },
+    {
+      "name": "Scotiabank Peru",
+      "position": "RPA Tech Leader",
+      "location": "",
+      "startDate": "2016",
+      "endDate": "2019",
+      "summary": "RPA project manager, budget 700k USD. In charge of 3-9 people. 21 RPA implementations, generating 1M USD per year (savings, cost avoidance, revenue). Technologies: Pega Robotics, MS SQL Server, C#, .NET 4.0, Microsoft LUIS."
+    },
+    {
+      "name": "Scotiabank Peru",
+      "position": "IT Analyst Jr. → Tech Leader",
+      "location": "",
+      "startDate": "2014",
+      "endDate": "2016",
+      "summary": "Banking system for banking accounts opening in 5 minutes. Banking system for Wholesale banking loans management. In charge of 1-5 people. Web Developer/Back-End Developer. Solutions designer. Technologies: C#, Visual Basic, MS SQL Server, MVC, .NET 3.5, .NET 4.0, Web Services, WCF, ETL, AS400, COBOL."
+    },
+    {
+      "name": "Software Enterprise Services",
+      "position": "Software Developer",
+      "location": "",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "Banking system for Wholesale banking loans management. Web Developer. Technologies: .NET 3.0, C#, Visual Basic .NET, MS SQL Server, COBOL, AS400."
+    },
+    {
+      "name": "MINEDU Peru",
+      "position": "Software Developer",
+      "location": "",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "Academic system implementation: admission process & students management for pedagogical national institutes. Solution Architect, Database designer, Web developer, Back-End developer. Technologies: HTML5, Bootstrap, C#, MVC 4, SQL Server, PHP, Yii Framework, MySQL."
+    },
+    {
+      "name": "Software Enterprise Services",
+      "position": "Software Developer",
+      "location": "",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "Banking system for mortgage loans management. Web application developer. Technologies: .NET 3.5, C#, Visual Basic .NET, Cobol AS400, MS SQL Sever."
+    },
+    {
+      "name": "SISPRO S.A.C.",
+      "position": "Software Developer",
+      "location": "",
+      "startDate": "2011",
+      "endDate": "2012",
+      "summary": "Banking application for customer identification through queue management system with RENIEC. Web Developer/Back-End Developer. Technologies: .NET 4.0, C#, MS SQL Sever, WebSphere MQ."
+    },
+    {
+      "name": "Recovery S.A.C.",
+      "position": "Web Developer",
+      "location": "",
+      "startDate": "2010",
+      "endDate": "2011",
+      "summary": "Payment, Sales and Inventory system. Web application developer. Technologies: .NET, C#, PHP, MySQL."
+    },
+    {
+      "name": "DICSO S.A.C.",
+      "position": "Developer Trainee",
+      "location": "",
+      "startDate": "2009",
+      "endDate": "2010",
+      "summary": "Desktop application developer.Technologies: .NET, C#. "
+    }
+  ],
+  "education": [
+    {
+      "institution": "Zero To Mastery Academy",
+      "url": "https://zerotomastery.io/",
+      "area": "Completed several courses in Front-end & Back-end development. Ex. React, Node, Database.",
+      "summary": "",
+      "startDate": "2022",
+      "endDate": "2024"
+    },
+    {
+      "institution": "UTP - Escuela de Postgrado",
+      "url": "https://www.postgradoutp.edu.pe/",
+      "area": "MBA",
+      "summary": "",
+      "startDate": "2017",
+      "endDate": "2019"
+    },
+    {
+      "institution": "CIBERTEC",
+      "url": "https://www.cibertec.edu.pe/",
+      "area": "BPM - Business Process Management",
+      "summary": "",
+      "startDate": "2013",
+      "endDate": "2013"
+    },
+    {
+      "institution": "UTP",
+      "url": "https://www.utp.edu.pe/",
+      "area": "ORACLE, Fundamentals. Oracle, WorkShop1",
+      "summary": "",
+      "startDate": "2011",
+      "endDate": "2011"
+    },
+    {
+      "institution": "UTP - Universidad Tecnológica del Perú",
+      "url": "https://www.utp.edu.pe/",
+      "area": "Software Engineer",
+      "summary": "",
+      "startDate": "2008",
+      "endDate": "2013"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Remix bootcamp",
+      "date": "2024",
+      "issuer": "Zero to Mastery Academy",
+      "url": "https://drive.google.com/file/d/1msCT8eoHHfvsONPou7aK97VGZYv4J-wg/view?usp=drive_link",
+      "keywords": ["Full Stack Development", "Web Development"]
+    },
+    {
+      "name": "Web Developer in",
+      "date": "2023",
+      "issuer": "Zero to Mastery Academy",
+      "url": "https://drive.google.com/file/d/14LxGXtcCxT6OIbAWBJJ-qfrq3h0dd2Bw/view?usp=drive_link",
+      "keywords": ["Web Development"]
+    },
+    {
+      "name": "React Developer",
+      "date": "2023",
+      "issuer": "Zero to Mastery Academy",
+      "url": "https://drive.google.com/file/d/1NZ4voFTDgS49KxcX82Z3-QE4Vg2Y9-Wy/view?usp=drive_link",
+      "keywords": ["Front End Development", "Web Development"]
+    },
+    {
+      "name": "Typescript: The Complete Developer's Guide",
+      "date": "2023",
+      "issuer": "Zero to Mastery Academy",
+      "url": "https://drive.google.com/file/d/1bxNAL1bln5TW6MzJJlMS_mWbZqHD7yEw/view?usp=drive_link",
+      "keywords": ["Typescript", "Web Development"]
+    },
+    {
+      "name": "Node.js Developer",
+      "date": "2023",
+      "issuer": "Zero to Mastery Academy",
+      "url": "https://drive.google.com/file/d/1dk3KVVY2Rz6i6qMkzMPCnMivkjBYqWTU/view?usp=drive_link",
+      "keywords": ["Back End Development", "Web Development"]
+    },
+    {
+      "name": "Junior to Senior Web Developer Roadmap",
+      "date": "2023",
+      "issuer": "Zero to Mastery Academy",
+      "url": "https://drive.google.com/file/d/1LgRUa8awN2WENfOnoEdSoS3UY8wwxJC7/view?usp=drive_link",
+      "keywords": ["Web Development"]
+    },
+    {
+      "name": "M320: MongoDB Data Modeling",
+      "date": "2021",
+      "issuer": "MongoDB University",
+      "url": "https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/d00f0c92-18db-555f-b268-82225a69ba4c-paul-osorio-schuler-6e6ce82f-4ccc-5122-97ac-6ccfe5137c17-certificate.pdf",
+      "keywords": ["Database", "NOSQL"]
+    },
+    {
+      "name": "M220JS: MongoDB for JavaScript Developers",
+      "date": "2021",
+      "issuer": "MongoDB University",
+      "url": "https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/d00f0c92-18db-555f-b268-82225a69ba4c-paul-osorio-schuler-c17e1f29-f2f6-554a-aa9c-552d6c2d1ada-certificate.pdf",
+      "keywords": ["Database", "NOSQL"]
+    },
+    {
+      "name": "M001: MongoDB Basics",
+      "date": "2021",
+      "issuer": "MongoDB University",
+      "url": "https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/d00f0c92-18db-555f-b268-82225a69ba4c-paul-osorio-schuler-6b9b4864-5b28-5fad-81d3-bc0f449c8a1c-certificate.pdf",
+      "keywords": ["Database", "NOSQL"]
+    },
+    {
+      "name": "Introduction to RPA Express",
+      "date": "2018",
+      "issuer": "Automation Academy by WorkFusion",
+      "url": "https://www.credential.net/gn4wyjuk",
+      "keywords": ["RPA"]
+    },
+    {
+      "name": "Automation Essentials",
+      "date": "2018",
+      "issuer": "Automation Academy by WorkFusion",
+      "url": "https://www.credential.net/buh0benk",
+      "keywords": ["RPA"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "React/Remix/Next.js"
+    },
+    {
+      "name": "Tailwind CSS"
+    },
+    {
+      "name": "Node.js/NestJS"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "MS SQL SERVER"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermediate+"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ]
+}
