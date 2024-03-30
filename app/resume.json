@@ -161,6 +161,13 @@
   ],
   "certificates": [
     {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "date": "2024",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/es-mx/poschuler/4D01352F022D0273?sharingId",
+      "keywords": ["Cloud", "Azure"]
+    },
+    {
       "name": "Remix bootcamp",
       "date": "2024",
       "issuer": "Zero to Mastery Academy",
